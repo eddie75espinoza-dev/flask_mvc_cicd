@@ -9,7 +9,7 @@ El **cli** solo retorna un saludo con el nombre que se ingrese.
 python app/cli.p
 ```
 o
-````bash
+```bash
 python3.8 -m app.cli
 ```
 
