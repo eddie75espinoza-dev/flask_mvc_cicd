@@ -5,13 +5,13 @@ Ejemplo simple de patron MCV implementado en Flask, PostgreSQL y Click, este eje
 ### CLI
 
 El **cli** solo retorna un saludo con el nombre que se ingrese.
-"""bash
-python app/cli.py
-"""
+```bash
+python app/cli.p
+```
 o
-"""bash
+````bash
 python3.8 -m app.cli
-"""
+```
 
 ### Data Base
 
